@@ -34,8 +34,7 @@ A front-end application to help manage bank loans and track loan details efficie
 ### 4. [**Go Concurrency Chat Application**](https://github.com/byralax/go-chat-app)
 A chat application built with Go, demonstrating the use of goroutines for handling multiple concurrent client connections.
 
-## 📈 GitHub Stats
-![Byron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=byralax&show_icons=true&hide_title=true)
+'
 
 ## 📞 Let's Connect
 - [Twitter](https://twitter.com/byralax)
