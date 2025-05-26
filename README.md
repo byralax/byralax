@@ -1,7 +1,7 @@
 # Hi, I'm Byron 👋  
 **a.k.a. Byralax** — *Code. Secure. Innovate.*
 
-![Byralax Banner](./A_digital_illustration_in_a_futuristic,_cyberpunk_.png)
+![Byralax Banner](https://i.postimg.cc/L4gj2qHB/A-digital-illustration-in-a-futuristic-cyberpunk.png)
 
 I'm a **Christian developer** and **cybersecurity explorer**, deeply rooted in code and purpose.  
 I build software like I live: secure, clean, and driven by meaning.  
@@ -51,7 +51,7 @@ Track, manage, and visualize loan activity with a clean dashboard and strong bac
 ### 💬 [Go Concurrency Chat App](https://github.com/byralax/go-chat-app)  
 Simple, elegant concurrent chat with Go’s goroutines and channels.
 
-### 🛺 [TrikeX: Uni Ride-Hailing Web App](https://github.com/byralax/trikeX) *(Hackathon Project)*  
+### 🛺 [TrikeRide: Uni Ride-Hailing Web App](https://github.com/byralax/trikeride-app) *(Hackathon Project)*  
 Babcock University’s tuk-tuk transport made digital — real-time location sharing, email verification, and simple booking.
 
 ### 📦 [Pendora (Gift Box + Digital Message)](https://github.com/byralax/pendora)  
